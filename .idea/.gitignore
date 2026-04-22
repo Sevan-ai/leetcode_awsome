@@ -1,0 +1,19 @@
+# IDEA 本地配置文件（全部忽略）
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Java编译文件
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# 系统文件
+.DS_Store
+Thumbs.db
