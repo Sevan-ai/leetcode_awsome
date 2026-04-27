@@ -1,4 +1,4 @@
-package daily_question;
+package daily_question._2026._0426;
 
 import java.util.Arrays;
 
